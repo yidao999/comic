@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homepage_select"
+        android:icon="@drawable/homepage_select"
+        android:title="@null" />
+    <item
+        android:id="@+id/bookshelf_select"
+        android:icon="@drawable/bookshelf_select"
+        android:title="@null" />
+    <item
+        android:id="@+id/mine_select"
+        android:icon="@drawable/mine_select"
+        android:title="@null" />
+</menu>
